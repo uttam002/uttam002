@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Uttam Bhuva</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttam002&label=Profile%20views&color=0e75b6&style=flat" alt="uttam002" /> </p>
 
