@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 <a href="https://www.leetcode.com/uttam_bhuva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uttam_bhuva" height="30" width="40" /></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/uttam-bhuva-6a838524a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uttam2634) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-bhuva-6a838524a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uttam2634) 
 - 📫 How to reach me **bhuvauttam7@gmail.com**
 
 # 💻 Tech Stack:
