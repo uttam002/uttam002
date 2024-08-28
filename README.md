@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![Leetcode](https://img.shields.io/badge/Leetcode-%23ED8B00.svg?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/Uttam_Bhuva/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-bhuva-6a838524a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uttam2634)  [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-%23Clojure?style=plastic&logo=Geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/uttam26/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23ED8B00.svg?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/u/Uttam_Bhuva/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-bhuva-6a838524a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)  [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-%23Clojure?style=plastic&logo=Geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/uttam26/)
 - 📫 How to reach me **bhuvauttam7@gmail.com**
 
 # 💻 Tech Stack:
